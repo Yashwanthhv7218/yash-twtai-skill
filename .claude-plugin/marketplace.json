@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "doc-skills",
+      "name": "yash-doc-skills",
       "source": "./plugins/doc-skills",
       "description": "Reviewer & Generator commands, a doc-coverage skill, a doc-auditor agent, and remote MCP servers (DeepWiki + Claude Code docs)."
     }
